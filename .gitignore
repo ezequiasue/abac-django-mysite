@@ -12,6 +12,8 @@ build/
 develop-eggs/
 dist/
 downloads/
+migrations/
+.vscode/
 eggs/
 .eggs/
 lib/
@@ -35,6 +37,8 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+*.md
+
 
 # Unit test / coverage reports
 htmlcov/
